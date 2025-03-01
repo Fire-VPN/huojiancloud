@@ -4,7 +4,7 @@
 ## 小火箭官网
 **小火箭官网最新地址**：[https://www.huojian.site](https://www.huojian.site)
 
-[![小火箭机场.jpg](https://github.com/Fire-VPN/huojiancloud/blob/main/images/02.jpg?raw=true)](https://huojian.site)
+[![小火箭机场.jpg](https://github.com/Fire-VPN/huojiancloud/blob/main/images/02.png?raw=true)](https://huojian.site)
 
 ## 小火箭机场特点
 * 定价实惠算是便宜机场梯子，月付10元至50元，丰俭由人，高性价比；
